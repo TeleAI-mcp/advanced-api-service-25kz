@@ -1,2 +1,3 @@
-# advanced-api-service-25kz
+# Advanced Api Service 25Kz
+
 A repository to test GitHub automation for issue management.
